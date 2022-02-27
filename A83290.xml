@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament. For the visitation and reformation of the Universitie of Oxford and the severall colledges and halls therein. With the names of the committee and visitors for the better regulating of the same. Die Sabbathi 1. Maii. 1647. Ordered by the Lords assembled in Parliament, that this ordinance for the visitation of Oxford be forthwith printed and published. Jo. Brown Cler. Parliamentorum.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83290</idno>
+            <idno type="STC">Wing E2071</idno>
+            <idno type="STC">Thomason E385_17</idno>
+            <idno type="STC">ESTC R201466</idno>
+            <idno type="EEBO-CITATION">99861971</idno>
+            <idno type="PROQUEST">99861971</idno>
+            <idno type="VID">160210</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160210)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E385[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament. For the visitation and reformation of the Universitie of Oxford and the severall colledges and halls therein. With the names of the committee and visitors for the better regulating of the same. Die Sabbathi 1. Maii. 1647. Ordered by the Lords assembled in Parliament, that this ordinance for the visitation of Oxford be forthwith printed and published. Jo. Brown Cler. Parliamentorum.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the old Bayley.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 1".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Oxford --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160210:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <p>AN ORDINANCE OF THE LORDS and COMMONS Aſſembled in
+PARLIAMENT. For the Viſitation and Reformation of the Univerſitie of OXFORD
+And the ſeverall Colledges and Halls therein. With the names of the Committee
+and Viſitors for the better regulating of the ſame.</p>
+            <p> 
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Sabbathi 1. Maii.
+1647.</hi>
+                              </date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords Aſſembled in Parliament, That
+this Or<g ref="char:EOLhyphen"/>dinance for the Viſitation of Oxford be forthwith printed and
+publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Jo. Brown Cler.
+Parliamentorum.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London</hi> Printed for <hi>John Wright</hi> at the Kings
+Head in the old Bayley. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160210:2"/>
+            <!-- PDF PAGE 35 -->
+            <pb n="1" facs="tcp:160210:2"/>
+            <!-- PDF PAGE 35 -->
+            <head>Die Sabbathi <hi>1.</hi> Maii. <hi>1647.</hi>
+            </head>
+            <head type="sub">An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons
+Aſſembled in Parliament, for the Vi<g ref="char:EOLhyphen"/>ſitation and Reformation of the
+Univerſity of <hi>Oxford,</hi> and the ſeverall Colledges and Halls
+therein.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the better regulating and Reforma<g ref="char:EOLhyphen"/>tion of the Univerſity
+of Oxford, and the ſeverall Colledges and Halls in the ſame; and for the
+due correcti<g ref="char:EOLhyphen"/>on of offences, abuſes, and diſorders, eſpecially of late
+time committed there: Be it Ordained by the Lords and Commons aſſembled in
+Parlia<g ref="char:EOLhyphen"/>ment, and by the Authority of the ſame, That Sir <hi>Na<g ref="char:EOLhyphen"/>thaniel
+Brent,</hi> Maſter <hi>Edward Corbet,</hi> Maſter <hi>John Pulipeton,</hi>
+of the middle Temple, Maſter <hi>Henry Wilkinſon,</hi> Maſter <hi>William
+Prynne</hi> of Lincolnes Inne, Maſter <hi>William Typing,</hi> Sir
+<hi>William Cobb,</hi> Maſter <hi>George Greenwood,</hi> Dector <hi>John
+Wilkinſon,</hi> Maſter <hi>Edward Reynolds,</hi> Maſter <hi>Robert
+Harris,</hi> Maſter <hi>Francis Cheynell,</hi> Maſter <hi>John Packer,</hi>
+Maſter <hi>John <pb n="2" facs="tcp:160210:3"/>
+                  <!-- PDF PAGE 36 -->Wilkinſon,</hi>
+Maſter <hi>John Mills,</hi> Maſter <hi>Chriſtopher Rogers,</hi> Maſter
+<hi>William Cope,</hi> Maſter <hi>Bartholomew Hall</hi> of the mid<g ref="char:EOLhyphen"/>dle
+Temple, Maſter <hi>Thomas Knight</hi> of Lincolnes Inne, Maſter <hi>John
+Heling</hi> of Crayes Inne, <hi>William Draper, Gabriel Beck</hi> of Lincolnes
+Inne, <hi>John Cartwright,</hi> and <hi>Samuel Dunch</hi> Eſquires, ſhall
+be, and they and every of them, are hereby appointed to be Viſitours of the
+ſaid Univer<g ref="char:EOLhyphen"/>ſity, and of all and every the ſaid Colledges and Halls, And
+of all and every the Maſters, Schollers, Fellowes, Members, and Officers of
+the ſaid Univerſity, and of the ſaid Colledges and Halls, and every of
+them reſpective<g ref="char:EOLhyphen"/>ly. And be it further Ordained by the Authority aforeſaid,
+That the ſaid Viſitors, or any five of them, may and ſhall viſite the
+ſaid Univerſity, Colledges, Halls, Maſters, Schol<g ref="char:EOLhyphen"/>lers, Fellowes,
+Members, and Officers; and inquire of, and heare and determine all and every
+crimes, offences, abuſes, diſorders, and all other matters whatſoever,
+which by the Lawes and Statutes of this Realme, or by the Cu<g ref="char:EOLhyphen"/>ſtomes or
+Statutes rightly eſtabliſhed of the ſaid Univerſi<g ref="char:EOLhyphen"/>ty, or by the
+ſeverall Statutes of the ſaid Colledges or Halls, or any of them
+reſpectively, may lawfully be inqui<g ref="char:EOLhyphen"/>red of, and heard, and determined in the
+courſe and way of Viſitation of the ſaid Univerſity, or of the ſaid
+Col<g ref="char:EOLhyphen"/>ledges, Halls, Maſters, Schollers, Fellowes, Members, and Officers, or of
+any of them reſpectively: And that they may and ſhall therein proceed to
+all intents and purpoſes, as and according as by the ſaid Lawes, Statutes,
+and Cu<g ref="char:EOLhyphen"/>ſtomes, or by any of them, any other Vifitors, by any Au<g ref="char:EOLhyphen"/>thority
+whatſoever appointed, might proceed reſpectively. And be it alſo further
+Ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That the ſaid Viſitors, or any five
+of them, may in<g ref="char:EOLhyphen"/>quire by Oath <hi>viva voce,</hi> to be taken before them
+reſpe<g ref="char:EOLhyphen"/>ctively, <pb n="3" facs="tcp:160210:3"/>
+               <!-- PDF PAGE 36 -->of and
+concerning all the Maſter, Schollers, Fel<g ref="char:EOLhyphen"/>lowes, and Officers of the
+reſpective foundations of all and every the ſaid Halls and Colledges, and
+of all and every the Officers belonging to them, or to the ſaid
+Uni<g ref="char:EOLhyphen"/>verſity, concerning thoſe that neglect to take the Solemne League and
+Covenant, and the Negative Oath being ten<g ref="char:EOLhyphen"/>dred to them, by ſuch as are
+authorized thereunto by Par<g ref="char:EOLhyphen"/>liament; and likewiſe concerning thoſe that
+oppoſe the execution of the Ordinances of Parliament concerning the
+Diſcipline and Directory, or ſhall not promote and cauſe the ſame to be
+put in execution, according to their ſeverall places and callings; And
+likewiſe concerning thoſe that ſhall teach or write againſt any point
+of Do<g ref="char:EOLhyphen"/>ctrine, the ignorance whereof doth exclude from the Sa<g ref="char:EOLhyphen"/>crament of the
+Lords Supper. And be it alſo further Or<g ref="char:EOLhyphen"/>dained by the Authority aforeſaid,
+That the ſaid Viſitors, or any five of them, may and ſhall inquire upon
+Oath, <hi>viva voce,</hi> to be taken before them reſpectively, of all and
+every the Maſters, Schollers, Fellowes, and Officers, of the reſpective
+Foundations, of and concerning all and eve<g ref="char:EOLhyphen"/>ry the ſaid Halls and Colledges,
+and of all and every the Officers belonging to any of them, or to the ſaid
+Uni<g ref="char:EOLhyphen"/>verſity, that have taken up or been in Armes againſt the Parliament, or
+againſt any Forces raiſed by Autho<g ref="char:EOLhyphen"/>rity thereof, or that have been active
+in aſſiſting or in<g ref="char:EOLhyphen"/>couraging the Forces raiſed againſt the
+parliament; and may and ſhall call all and every ſuch perſon and
+Witneſſes concerning the ſame before them reſpe<g ref="char:EOLhyphen"/>ctively; and the ſame
+Witneſſes, and any Witneſſe or Witneſſes to be produced by the
+Party accuſed of, or charged with any ſuch offences put to their Oaths
+<hi>Viva voce</hi> concerning the Premiſſes, and that they, or any five 
+<pb n="2" facs="tcp:160210:4"/>
+               <!-- PDF PAGE 37 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="3" facs="tcp:160210:4"/>
+               <!-- PDF PAGE 37 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="4" facs="tcp:160210:5"/>
+               <!-- PDF PAGE 38 -->of them ſhall from time to
+time certifie to the Committee of Lords and Commons, hereafter in this
+Ordinance ap<g ref="char:EOLhyphen"/>pointed, what Maſters, Schollers, Fellowes, Members, or Officers
+as aforeſaid they find to have committed any of the ſaid offences, and in
+what manner, and the eſpeciall qua<g ref="char:EOLhyphen"/>lity and condition of the offenders; That
+ſo ſuch fur<g ref="char:EOLhyphen"/>ther proceedings may be thereupon had, as to the ſaid
+Committee of Lords and Commons ſhall be thought meet. And be it ordained by
+the authority aforeſaid, That the ſaid Viſitors ſhall have power, and
+are hereby authorized to Examine, and conſider of all ſuch Oathes as are
+enjoyned by the Statutes of the ſaid Univerſity, or of all or any of the
+reſpective Colledges and Halls in them, as are not fit to be taken, and to
+preſent their Opinions concerning the ſame to the Committee of Lords and
+Commons in this Ordinance named, to the end that ſuch courſe may be therein
+taken as may be agreeable to the intended Refor<g ref="char:EOLhyphen"/>mation of the ſaid
+Univerſity; Provided alwaies, and it is further Ordained, That if any of the
+ſaid Muſters, Schol<g ref="char:EOLhyphen"/>lers, Fellowes, Members, or Officers, ſhall finde
+themſelves grieved in, or upon any Sentence definitive given by the ſaid
+Viſitors, or any of them as aforeſaid, that then it ſhall and may be
+lawfull to and for the Party ſo grieved, ſum<g ref="char:EOLhyphen"/>marily by repreſenting his
+Caſe, to appeale and ſeeke re<g ref="char:EOLhyphen"/>medy and redreſſe thereupon before the
+ſaid Committee of Lords and Commons, who are hereby authorized find<g ref="char:EOLhyphen"/>ly to
+heare and determine every ſuch Caſe ſo brought to them by appeale,
+according as to Juſtice ſhall appertaine. And it is further Ordained by the
+authority aforeſaid; That <hi>Algernon</hi> Earle of Northumberland,
+<hi>Henry</hi> Earle of Kent, <hi>John</hi> Earle of Rutland, <hi>Philip</hi>
+Earle of Pembrooke and Mountgomery, <hi>Theophilus</hi> Earle of Lincolne,
+<hi>Charles</hi> 
+               <pb n="5" facs="tcp:160210:5"/>
+               <!-- PDF PAGE 38 -->Earle of
+Notringham, <hi>James</hi> Earle of Suſtolk, <hi>William</hi> Earle of
+Salisbury, <hi>Robert</hi> Earle of Warwick, <hi>Bazil</hi> Earle of Denbigh,
+<hi>James</hi> Earle of Middleſex, <hi>Edward</hi> Earle of Mancheſter,
+<hi>Edmund</hi> Earle of Mulgrave, <hi>Henry</hi> Earle of Stamford,
+<hi>Walter</hi> Lord Viſcount Hereford, <hi>William</hi> Lord Viſcount
+<hi>Say</hi> and <hi>Seale, Charles</hi> Lord <hi>De la Warre, George</hi> Lord
+<hi>Berkley, Philip</hi> Lord <hi>Wharton, Francis</hi> Lord <hi>Willough<g ref="char:EOLhyphen"/>by,
+Dudley</hi> Lord <hi>North, John</hi> Lord <hi>Huaſden, William</hi> Lord
+<hi>Grey</hi> of Warke, <hi>Iohn</hi> Lord <hi>Roberts, Edward</hi> Lord
+<hi>Howard</hi> of Eſcr. <hi>Tho.</hi> Lord <hi>Bruce,</hi> Members of the
+Houſe of Peeres. And Sir <hi>Chriſtopher Yelverton,</hi> Sir <hi>Iohn
+Danvers,</hi> Mr. <hi>Iohn Selden,</hi> Mr. <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Weſt,</hi>
+Mr. <hi>Francis Rous,</hi> Mr. <hi>Iohn Crew,</hi> Sir <hi>William Lewes,</hi>
+Mr. <hi>Bulſtrode Whitlocke,</hi> Sir <hi>Thomas Wi<g ref="char:EOLhyphen"/>therington,</hi> Mr.
+<gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Poole,</hi> Sir <hi>Peter Wentworth,</hi> Colonell
+<gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Leigh,</hi> Mr. <hi>Nathaniel Fiennes,</hi> Mr.
+<hi>Walter Long,</hi> Sir <hi>Philip Stapleton,</hi> Mr. <hi>William
+Wheeler,</hi> Mr. <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Swin<g ref="char:EOLhyphen"/>fen,</hi> Mr. <hi>Samuel
+Broune,</hi> Mr. <hi>Nicholas Love,</hi> Sir <hi>Willam Brereton, Thomas</hi>
+Lord <hi>Wenman, Iames Fiennes</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William
+Lenthall,</hi> 
+               <abbr>Eſq</abbr> Speaker of the Houſe of Commons,
+<hi>Denzell Holles</hi> 
+               <abbr>Eſq</abbr> and Sir <hi>Robert Harley</hi>
+Knight of the Bath, <hi>Hum<g ref="char:EOLhyphen"/>phrey Sallaway</hi> 
+               <abbr>Eſq</abbr> Mr.
+<hi>Liſle,</hi> Mr. <hi>Iohn Lenthall,</hi> Sir <hi>Gilbert Gerrard,</hi> Mr.
+<hi>Scot,</hi> Sir <hi>Thomas Wroth,</hi> Mr. <hi>Doyly,</hi> Mr.
+<hi>Pri<g ref="char:EOLhyphen"/>deaux,</hi> Mr. <hi>Tate,</hi> Mr. <hi>Bond,</hi> Mr.
+<hi>Aſhurſt,</hi> Mr. <hi>Bulckley,</hi> Mr. <hi>Kirle,</hi> Mr.
+<hi>Recorder,</hi> Mr. <hi>Martin,</hi> Sir <hi>Iohn Burgoyne,</hi> Sir
+<hi>The<g ref="char:EOLhyphen"/>mas Dacres,</hi> Mr. <hi>Nicell,</hi> Sir <hi>Iohn Maynard,</hi> Mr.
+<hi>Geurden,</hi> Mr. <hi>Grimſton,</hi> Doctor <hi>Bond,</hi> Mr.
+<hi>Morley,</hi> Mr. <hi>Green,</hi> Mr. <hi>Reynolds,</hi> Mr. <hi>Grove,</hi>
+and Mr. <hi>Knightly,</hi> Members of the Houſe of Commons, and every five of
+them ſhall be, and are hereby authorized to be a ſtanding Committee, and to
+fit at ſuch time and place as they reſpectively ſhall appoint, to receive
+upon appeale as aſoreſaid ſuch matters as ſhall be ſo brought and
+repreſented to them: and thereupon ſum<g ref="char:EOLhyphen"/>marily <pb n="6" facs="tcp:160210:6"/>
+               <!-- PDF PAGE 39 -->to
+proceed according as the juſtice of the Caſe re<g ref="char:EOLhyphen"/>quires, and alſo to
+receive ſuch matters as ſhall be as afore<g ref="char:EOLhyphen"/>ſaid certified to them; and
+thereupon to proceed and de<g ref="char:EOLhyphen"/>termine, according as they ſhall finde the
+quality and con<g ref="char:EOLhyphen"/>dition of the Caſes and Perſons ſo certified to them
+re<g ref="char:EOLhyphen"/>ſpectively. Provided alſo, that nothing contained in this Ordinance
+ſhall take away the right and authority of the Chancellor for the time
+being.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
